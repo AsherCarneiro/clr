@@ -1,5 +1,5 @@
 # clr-package
-this is a apt package just `git clone` this repo first.
+this is an apt package just `git clone` this repo first, ps this package runs "clear" command thats what it does.
 
 Here's how you can install the clr package from the local directory:
 
