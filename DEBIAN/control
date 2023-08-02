@@ -1,0 +1,5 @@
+Package: clr
+Version: 1.0
+Maintainer: Asher <carneiroasher@gmail.com>
+Architecture: all
+Description: A stupid package to run the "clear" command cause alias dont work on my system for some reason.
